@@ -1,0 +1,73 @@
+/* CSS */
+body{
+	background-color: #a6a6a6;
+	font-family: "MAXWELL", MAXWELL, Century Gothic;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+#prin{
+    width: 50%;
+	margin: auto;
+	float: center;
+	padding-left: 20%;
+}
+
+#prin h1{
+	font-size: 53px;
+}
+
+#prin2{
+	width: 50%;
+	margin: auto;
+	float: center;
+}
+.frase {
+	width: 300px;
+	color: #AFB5BB;
+	font-size: 17px;
+	display: block;
+	padding: 14px;
+	border: none;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #808080;
+	background: #f0f0f0;
+	color: #aaa;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+
+.frase:focus {
+	outline: none;
+	border-bottom-color: #ffcc66;
+}
+
+.enviar{
+	background: #ffffff;
+	width: 100px;
+	padding: 10px;
+	font-family: "MAXWELL", MAXWELL, Century Gothi;
+	font-weight: bold;
+	font-size: 25px;
+	color: #a6a6a6;
+	border-style: solid;
+	border-color: #ffffff;
+	border-width: 2px;
+	cursor: pointer;
+}
+.enviar:focus{
+	outline: none;
+	background-color: #ffcc66;
+	border-color: #ffcc66;
+	border-bottom-color: #ffffff;
+	color: #ffffff;
+}
+
+#frases{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #808080;
+	padding: 5px;
+	margin-bottom: 5px;
+}
